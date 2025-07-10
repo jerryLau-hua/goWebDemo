@@ -1,5 +1,6 @@
 package database
 
+//底层数据库连接
 import (
 	"awesomeProject/internal/config"
 	"database/sql"

@@ -13,6 +13,7 @@
 ## 项目结构
 
 ```text
+/awesomeProject
 . ├── cmd/ # 入口文件 
 │ └── server/ 
 │ └── main.go # 主程序入口 
